@@ -1,42 +1,41 @@
-# 👋 Hi, I'm Srinivasa Saidatta Chivukula
-**Computer Science Student at UNT | AI/ML & Cybersecurity Specialist | 4.0 GPA**
+# 🚀 Hey there! I'm Srinivasa.
+### CS Major @ UNT | AI/ML Geek | Cybersecurity Defender | Data Whisperer
 
-I am a passionate Computer Science student at the **University of North Texas**, concentrating in **AI/ML Automation**, **Cybersecurity (NSA-certified)**, and **Mathematics**. I thrive at the intersection of data-driven intelligence and secure system architecture.
-
----
-
-### 🛡️ Professional Focus
-- **AI/ML Engineering:** Architecting deep learning models (CNNs, Transformers) for genomic research and predictive analytics.
-- **Cybersecurity:** Engineering modular microservices for automated vulnerability remediation and identity management (JWKS/OIDC).
-- **IoT & Systems:** Building real-time assistive technologies using computer vision (YOLOv8) and edge devices (Raspberry Pi).
+I don’t just write code; I build systems that solve real-world headaches. Whether it's training a neural network to understand genomic sequences or locking down an enterprise's identity layer, I'm all in. Currently crushing my BS in Computer Science at the **University of North Texas** with a **straight 4.0 GPA** (because if you're going to do it, do it right, right?).
 
 ---
 
-### 🏆 Honors & Impact
-- **HackWell Hackathon Winner:** 1st Place for **Vision Assist IoT** (Real-time AI for the visually impaired).
-- **Research Associate (UR2PHD):** Improving gene function identification using CNN ensemble models (Targeting F1 > 0.90).
-- **IT Security Assistant:** Increased security update deployment speed by 40% across 1,000+ endpoints.
+### ⚡ What I'm Obsessed With
+- **AI/ML that actually works:** I'm deep into CNNs, PyTorch, and using YOLOv8 to make the world a safer, smarter place.
+- **Locking Things Down:** I live for that moment when a security update deploys 40% faster or when a token verification flow is perfectly stateless.
+- **The Intersection of Bio & Tech:** Predicting mRNA splice sites isn't just research—it's like being a detective for the code of life itself.
 
 ---
 
-### 🛠 Technical Arsenal
-| Category | Technologies |
+### 🏆 Best Moments So Far
+- **Hackathon Champion:** Took home 1st Place at **HackWell** for building a Vision Assist IoT system. Seeing a Raspberry Pi and YOLOv8 work together to help visually impaired patients? *Chef's kiss.*
+- **Research Grind:** Handling 22,000+ genomic samples in PyTorch. It's a lot of data, and I love every bit of it.
+- **Institutional Impact:** Keeping 1,000+ endpoints secure isn't just a job; it's about building a fortress.
+
+---
+
+### 🛠 My Toolkit
+| | |
 | :--- | :--- |
-| **Languages** | Python, JavaScript (React/Native), Java, C/C++, SQL, HTML/CSS |
-| **AI/ML** | PyTorch, TensorFlow, Scikit-learn, XGBoost, CNNs, NLP, OpenCV |
-| **Security** | AuthN/AuthZ, TLS/SSL, Rapid7 InsightVM, Encryption, TCP/IP |
-| **Tools** | Docker, Git, CI/CD, Raspberry Pi, Sense HAT, Android Studio |
+| **Code** | Python (my go-to), JS (React), C/C++, Java, SQL, Bash |
+| **Brain power** | PyTorch, TensorFlow, Scikit-learn, XGBoost, CNNs, NLP |
+| **Defense** | AuthN/AuthZ, TLS/SSL, Rapid7, Encryption, Networking |
+| **Gear** | Docker, Git, CI/CD, Raspberry Pi, Android Studio |
 
 ---
 
-### 📂 Portfolios
-- **[Main Portfolio Repository](https://github.com/SrinivasaChivukula/Srinivasa-s-Portfolio):** A systematic breakdown of my technical projects categorized by domain.
+### 🔗 Where the Magic Happens
+Check out my **[Main Portfolio Repo](https://github.com/SrinivasaChivukula/Srinivasa-s-Portfolio)** for a systematic breakdown of everything I've built.
 
 ---
 
-### 📫 Connect with Me
-- **LinkedIn:** [linkedin.com/in/srinivasasaidattac](https://linkedin.com/in/srinivasasaidattac)
+### 📫 Hit Me Up!
+- **LinkedIn:** [Come say hi!](https://linkedin.com/in/srinivasasaidattac)
 - **Email:** [srinivasachivukula@outlook.com](mailto:srinivasachivukula@outlook.com)
 
----
-"Building secure, intelligent solutions for a complex world." 🚀
+"Security is a mindset, AI is the tool, and a 4.0 is just the baseline." 🚀
